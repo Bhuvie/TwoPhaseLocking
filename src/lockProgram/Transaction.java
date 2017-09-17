@@ -4,10 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.PriorityQueue;
 
-/**
- *
- Rajakarthikeyan, Bhuvanesh: 0051
- */
+
 
 //Schema of the Transaction object that is used for storing information about each Transaction.
 public class Transaction {

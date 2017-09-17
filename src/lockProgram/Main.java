@@ -7,10 +7,6 @@ import java.io.PrintStream;
 import java.util.*;
 
 
-/**
- *
- Rajakarthikeyan, Bhuvanesh: 0051
- */
 
 //All the locking operations takes place in this class.
 public class Main {
